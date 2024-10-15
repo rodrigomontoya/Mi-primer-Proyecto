@@ -36,7 +36,7 @@ Para poder trabajar en nuestro archivo es necesario descargarlo en formato zip, 
    1. En la barra de herramientas (parte superior izquierda) hacemos click sobre archivo.
    1. Luego abrir carpeta, buscamos mediante el gestor de carpetas la localización de nuestra carpeta recién descomprimida.
    1. Una vez abierta la carpeta en VSC nos debe aparecer la siguiente estructura.  
-      ![](https://github.com/lucaszhh/variable/blob/main/Aspose.Words.7828b270-7e90-4d62-a082-122ed286abea.004.png)
+      ![](https://github.com/rodrigomontoya/Mi-primer-Proyecto-Imagenes/blob/main/EstructuraProyectopng.png)
 
 \>**Estilos:** dentro de esta carpeta encontraremos los estilos del sitio web, de esta carpeta sólo nos interesara el archivo con el nombre fotos-carrusel.css.
 
