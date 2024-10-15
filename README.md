@@ -74,7 +74,7 @@ Ahora vamos a trabajar con la sección de las imágenes **`<section class=”car
 A diferencia de la sección anterior esta sección está implementando el recurso de las imágenes mediante estilos quiere decir que no vamos a modificar el archivo index.html sino que dentro de la carpeta **`Estilos`** nos encontraremos el archivo **`/Estilos/fotos-carrusel.css`** Dentro del archivo encontraremos tres propiedades que representan cada una de las imágenes. Para cada imagen tendremos una función **url(“ ”)** que representa el src de los elementos html dentro de ella encontramos envuelta de comillas la ruta hacia la imagen.
 
 ![](https://github.com/lucaszhh/variable/blob/main/Aspose.Words.7828b270-7e90-4d62-a082-122ed286abea.010.png)  
-![](https://github.com/lucaszhh/variable/blob/main/Aspose.Words.7828b270-7e90-4d62-a082-122ed286abea.011.png)
+![](https://github.com/rodrigomontoya/Mi-primer-Proyecto-Imagenes/blob/main/Partes%20del%20html.png)
 
 ### section información
 
